@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/17323/Documents/School Stuff/Junior Year/Spring/CS_415/final_project/final_git/FinalProject/Content/2DSideScrollerBP/Blueprints/My2DPlayerCharacter.uasset",
+				"C:/Users/17323/Documents/School Stuff/Junior Year/Spring/CS_415/final_project/final_git/FinalProject/Content/2DSideScrollerBP/Levels/TilemapLevel.umap",
+				"C:/Users/17323/Documents/School Stuff/Junior Year/Spring/CS_415/final_project/final_git/FinalProject/Content/2DSideScrollerBP/Blueprints/StartGame.uasset",
+				"C:/Users/17323/Documents/School Stuff/Junior Year/Spring/CS_415/final_project/final_git/FinalProject/Content/2DSideScrollerBP/Blueprints/MainMenu.umap",
+				"C:/Users/17323/Documents/School Stuff/Junior Year/Spring/CS_415/final_project/final_git/FinalProject/Content/2DSideScrollerBP/Blueprints/MenuGameMode.uasset"
+			]
+		}
+	]
+}
