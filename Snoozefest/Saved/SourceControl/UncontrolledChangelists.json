@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/ruo/Downloads/CS 415/Unreal Projects/CS415_31-Game/Snoozefest/Content/Assets/Textures/decorations/decoration_sprites/level1_lamp.uasset",
+				"/Users/ruo/Downloads/CS 415/Unreal Projects/CS415_31-Game/Snoozefest/Content/Blueprints/BP_lamp1.uasset",
+				"/Users/ruo/Downloads/CS 415/Unreal Projects/CS415_31-Game/Snoozefest/Content/Maps/MainMap.umap",
+				"/Users/ruo/Downloads/CS 415/Unreal Projects/CS415_31-Game/Snoozefest/Content/Maps/MainMap2.umap",
 				"C:/Users/17323/Documents/School Stuff/Junior Year/Spring/CS_415/final_project/final_git/Snoozefest/Content/Blueprints/BP_Player.uasset",
 				"C:/Users/17323/Documents/School Stuff/Junior Year/Spring/CS_415/final_project/final_git/Snoozefest/Content/Maps/MainMap.umap",
 				"C:/Users/17323/Documents/School Stuff/Junior Year/Spring/CS_415/final_project/final_git/Snoozefest/Content/Widgets/Health.uasset",
