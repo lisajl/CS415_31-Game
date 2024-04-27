@@ -1509,3 +1509,26 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.27-17.38.01:823][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
 [2024.04.27-17.38.01:860][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_7
 [2024.04.27-17.38.55:051][248]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Blueprints/imcdefault.imcdefault
+[2024.04.27-17.48.46:019][666]LogEditorViewport: Clicking Background
+[2024.04.27-17.48.48:835][827]Cmd: DELETE
+[2024.04.27-17.48.48:836][827]Cmd: ACTOR DELETE
+[2024.04.27-17.48.48:838][827]LogEditorActor: Deleted Actor: bp_spike_gen_C
+[2024.04.27-17.48.48:855][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.27-17.48.48:857][827]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.04.27-17.49.21:948][795]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Health.Health
+[2024.04.27-17.49.21:949][795]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.27-17.49.21:949][795]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.27-17.49.21:950][795]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.27-17.49.21:950][795]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.27-17.51.10:472][145]LogSlate: Took 0.000706 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.04.27-17.51.32:823][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.27-17.51.32:892][420]LogSavePackage: Moving output files for package: /Game/Widgets/Health
+[2024.04.27-17.51.32:894][420]LogSavePackage: Moving '../../../../../../Users/17323/Documents/School Stuff/Junior Year/Spring/CS_415/final_project/final_git/Snoozefest/Saved/HealthF6662BB54E48A4C5D56506BEE85C9619.tmp' to '../../../../../../Users/17323/Documents/School Stuff/Junior Year/Spring/CS_415/final_project/final_git/Snoozefest/Content/Widgets/Health.uasset'
+[2024.04.27-17.51.32:902][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 196 ms)
+[2024.04.27-17.51.32:904][420]AssetCheck: New page: Asset Save: Health
+[2024.04.27-17.51.32:904][420]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Health.Health
+[2024.04.27-17.51.33:893][480]BlueprintLog: New page: Compile Health
+[2024.04.27-17.51.33:902][480]LogBlueprint: Error: [AssetLog] C:\Users\17323\Documents\School Stuff\Junior Year\Spring\CS_415\final_project\final_git\Snoozefest\Content\Widgets\Health.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_Player  to imply a specific type.
+[2024.04.27-17.51.33:902][480]LogBlueprint: Error: [AssetLog] C:\Users\17323\Documents\School Stuff\Junior Year\Spring\CS_415\final_project\final_git\Snoozefest\Content\Widgets\Health.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2024.04.27-17.51.33:902][480]LogBlueprint: Error: [AssetLog] C:\Users\17323\Documents\School Stuff\Junior Year\Spring\CS_415\final_project\final_git\Snoozefest\Content\Widgets\Health.uasset: [Compiler] The property associated with  Collectibles 1  could not be found in '/Game/Widgets/Health.Health_C'
+[2024.04.27-17.51.33:935][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
