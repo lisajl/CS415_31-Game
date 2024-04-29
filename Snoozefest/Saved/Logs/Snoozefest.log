@@ -1542,3 +1542,131 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.29-02.09.44:688][876]LogFileHelpers: InternalPromptForCheckoutAndSave took 337 ms
 [2024.04.29-02.09.44:695][876]AssetCheck: New page: Asset Save: MainMap
 [2024.04.29-02.09.44:695][876]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MainMap.MainMap
+[2024.04.29-02.14.11:022][745]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Assets/TileSets-TileMaps/background_layer_1_TileSet.background_layer_1_TileSet
+[2024.04.29-02.14.11:039][745]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-02.14.11:039][745]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-02.14.11:472][745]LogSlate: Took 0.002729 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.29-02.14.11:477][745]LogViewport: Scene viewport resized to 1140x763, mode Windowed.
+[2024.04.29-02.14.11:493][745]LogViewport: Scene viewport resized to 760x359, mode Windowed.
+[2024.04.29-02.14.11:509][745]LogSlate: Took 0.001234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.29-02.14.17:289][880]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-02.14.17:289][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-02.14.40:787][486]LogLinker: Warning: [AssetLog] C:\Users\advai\OneDrive\Desktop\CS415_31-Game\Snoozefest\Content\Assets\TileSets-TileMaps\greece_ts.uasset: Failed to load '/Game/Assets/TileSets-TileMaps/greece': Can't find file.
+[2024.04.29-02.14.40:787][486]LogLinker: Warning: [AssetLog] C:\Users\advai\OneDrive\Desktop\CS415_31-Game\Snoozefest\Content\Assets\TileSets-TileMaps\greece_ts.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Assets/TileSets-TileMaps/greece'
+[2024.04.29-02.14.40:939][486]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Assets/TileSets-TileMaps/TM_oakwood2.TM_oakwood2
+[2024.04.29-02.14.40:941][486]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-02.14.40:941][486]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-02.14.41:375][486]LogViewport: Scene viewport resized to 318x271, mode Windowed.
+[2024.04.29-02.14.41:389][486]LogViewport: Scene viewport resized to 685x437, mode Windowed.
+[2024.04.29-02.15.02:401][923]LogSlate: Window 'TM_oakwood2' being destroyed
+[2024.04.29-02.15.02:533][923]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-02.15.02:534][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-02.15.08:291][ 77]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Assets/TileSets-TileMaps/background_layer_1_TileSet.background_layer_1_TileSet
+[2024.04.29-02.15.08:300][ 77]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-02.15.08:300][ 77]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-02.15.08:493][ 77]LogViewport: Scene viewport resized to 1140x763, mode Windowed.
+[2024.04.29-02.15.08:518][ 77]LogViewport: Scene viewport resized to 760x359, mode Windowed.
+[2024.04.29-02.15.22:265][482]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Assets/TileSets-TileMaps/TM_oakwood2.TM_oakwood2
+[2024.04.29-02.15.22:267][482]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-02.15.22:267][482]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-02.15.22:840][482]LogViewport: Scene viewport resized to 319x274, mode Windowed.
+[2024.04.29-02.15.22:854][482]LogViewport: Scene viewport resized to 687x440, mode Windowed.
+[2024.04.29-02.15.26:864][544]LogViewport: Scene viewport resized to 318x308, mode Windowed.
+[2024.04.29-02.15.26:877][544]LogViewport: Scene viewport resized to 683x474, mode Windowed.
+[2024.04.29-02.15.27:023][546]LogViewport: Scene viewport resized to 510x635, mode Windowed.
+[2024.04.29-02.15.27:050][546]LogViewport: Scene viewport resized to 1073x801, mode Windowed.
+[2024.04.29-02.15.27:468][559]LogSlate: Window 'TM_oakwood2' being destroyed
+[2024.04.29-02.15.33:044][746]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Assets/TileSets-TileMaps/TM_oakwood.TM_oakwood
+[2024.04.29-02.15.33:046][746]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-02.15.33:046][746]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-02.15.33:289][746]LogViewport: Scene viewport resized to 510x635, mode Windowed.
+[2024.04.29-02.15.33:301][746]LogViewport: Scene viewport resized to 1073x801, mode Windowed.
+[2024.04.29-02.16.32:257][614]Cmd: TRANSACTION UNDO
+[2024.04.29-02.16.32:257][614]LogEditorTransaction: Undo Toggle Layer Visibility
+[2024.04.29-02.16.32:591][615]Cmd: TRANSACTION UNDO
+[2024.04.29-02.16.32:591][615]LogEditorTransaction: Undo Tile Erasing
+[2024.04.29-02.16.33:245][636]Cmd: TRANSACTION UNDO
+[2024.04.29-02.16.33:245][636]LogEditorTransaction: Undo Toggle Layer Visibility
+[2024.04.29-02.16.33:814][647]Cmd: TRANSACTION UNDO
+[2024.04.29-02.16.33:814][647]LogEditorTransaction: Undo Toggle Layer Visibility
+[2024.04.29-02.16.34:489][670]Cmd: TRANSACTION UNDO
+[2024.04.29-02.16.34:489][670]LogEditorTransaction: Undo Toggle Layer Visibility
+[2024.04.29-02.16.35:508][704]Cmd: TRANSACTION UNDO
+[2024.04.29-02.16.35:508][704]LogEditorTransaction: Undo Tile Erasing
+[2024.04.29-02.16.36:183][722]Cmd: TRANSACTION UNDO
+[2024.04.29-02.16.36:184][722]LogEditorTransaction: Undo Clicking on Elements
+[2024.04.29-02.18.58:499][ 10]Cmd: TRANSACTION UNDO
+[2024.04.29-02.18.58:499][ 10]LogEditorTransaction: Undo Tile Painting
+[2024.04.29-02.18.58:767][ 10]Cmd: TRANSACTION UNDO
+[2024.04.29-02.18.58:767][ 10]LogEditorTransaction: Undo Tile Painting
+[2024.04.29-02.18.59:546][ 29]Cmd: TRANSACTION UNDO
+[2024.04.29-02.18.59:547][ 29]LogEditorTransaction: Undo Tile Painting
+[2024.04.29-02.18.59:804][ 30]Cmd: TRANSACTION UNDO
+[2024.04.29-02.18.59:804][ 30]LogEditorTransaction: Undo Tile Painting
+[2024.04.29-02.19.00:069][ 31]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.00:069][ 31]LogEditorTransaction: Undo Tile Painting
+[2024.04.29-02.19.00:310][ 31]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.00:310][ 31]LogEditorTransaction: Undo Tile Erasing
+[2024.04.29-02.19.01:382][ 47]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.01:382][ 47]LogEditorTransaction: Undo Tile Erasing
+[2024.04.29-02.19.01:858][ 56]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.01:858][ 56]LogEditorTransaction: Undo Tile Erasing
+[2024.04.29-02.19.02:142][ 57]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.02:144][ 57]LogEditorTransaction: Undo Tile Erasing
+[2024.04.29-02.19.02:388][ 57]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.02:388][ 57]LogEditorTransaction: Undo Tile Erasing
+[2024.04.29-02.19.02:636][ 57]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.02:636][ 57]LogEditorTransaction: Undo Tile Painting
+[2024.04.29-02.19.03:979][ 76]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.03:979][ 76]LogEditorTransaction: Undo Tile Painting
+[2024.04.29-02.19.04:246][ 76]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.04:246][ 76]LogEditorTransaction: Undo Tile Painting
+[2024.04.29-02.19.04:460][ 76]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.04:460][ 76]LogEditorTransaction: Undo Tile Painting
+[2024.04.29-02.19.05:224][ 95]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.05:224][ 95]LogEditorTransaction: Undo Tile Painting
+[2024.04.29-02.19.05:503][ 97]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.05:503][ 97]LogEditorTransaction: Undo Tile Erasing
+[2024.04.29-02.19.05:846][100]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.05:846][100]LogEditorTransaction: Undo Tile Erasing
+[2024.04.29-02.19.06:095][100]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.06:095][100]LogEditorTransaction: Undo Tile Erasing
+[2024.04.29-02.19.06:344][100]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.06:344][100]LogEditorTransaction: Undo Tile Erasing
+[2024.04.29-02.19.06:582][100]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.06:582][100]LogEditorTransaction: Undo Tile Erasing
+[2024.04.29-02.19.06:859][100]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.06:859][100]LogEditorTransaction: Undo Tile Painting
+[2024.04.29-02.19.07:085][100]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.07:085][100]LogEditorTransaction: Undo Tile Painting
+[2024.04.29-02.19.07:308][100]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.07:308][100]LogEditorTransaction: Undo Tile Painting
+[2024.04.29-02.19.07:540][100]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.07:540][100]LogEditorTransaction: Undo Tile Painting
+[2024.04.29-02.19.07:769][100]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.07:770][100]LogEditorTransaction: Undo Tile Painting
+[2024.04.29-02.19.08:046][100]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.08:046][100]LogEditorTransaction: Undo Tile Painting
+[2024.04.29-02.19.09:003][129]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.09:003][129]LogEditorTransaction: Undo Tile Painting
+[2024.04.29-02.19.09:248][129]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.09:248][129]LogEditorTransaction: Undo Tile Painting
+[2024.04.29-02.19.09:463][129]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.09:463][129]LogEditorTransaction: Undo Tile Painting
+[2024.04.29-02.19.09:682][129]Cmd: TRANSACTION UNDO
+[2024.04.29-02.19.09:682][129]LogEditorTransaction: Undo Tile Painting
+[2024.04.29-02.19.47:007][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-02.19.49:671][831]LogSavePackage: Moving output files for package: /Game/Assets/TileSets-TileMaps/TM_oakwood
+[2024.04.29-02.19.49:674][831]LogSavePackage: Moving '../../../../../../Users/advai/OneDrive/Desktop/CS415_31-Game/Snoozefest/Saved/TM_oakwood458D8A5645B54E09985223B6D9E276C0.tmp' to '../../../../../../Users/advai/OneDrive/Desktop/CS415_31-Game/Snoozefest/Content/Assets/TileSets-TileMaps/TM_oakwood.uasset'
+[2024.04.29-02.19.49:689][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.68 sec (total: 3.01 sec)
+[2024.04.29-02.19.49:760][831]AssetCheck: New page: Asset Save: TM_oakwood
+[2024.04.29-02.19.49:760][831]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileMap /Game/Assets/TileSets-TileMaps/TM_oakwood.TM_oakwood
+[2024.04.29-02.20.24:424][914]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-02.20.24:565][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../../Users/advai/OneDrive/Desktop/CS415_31-Game/Snoozefest/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.29-02.20.24:632][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.04.29-02.20.24:697][914]LogSavePackage: Moving output files for package: /Game/Maps/MainMap
+[2024.04.29-02.20.24:698][914]LogSavePackage: Moving '../../../../../../Users/advai/OneDrive/Desktop/CS415_31-Game/Snoozefest/Saved/MainMap026192BD4797BE917652DC8DA4F8031F.tmp' to '../../../../../../Users/advai/OneDrive/Desktop/CS415_31-Game/Snoozefest/Content/Maps/MainMap.umap'
+[2024.04.29-02.20.24:713][914]LogFileHelpers: Saving map 'MainMap' took 0.149
+[2024.04.29-02.20.24:725][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 301 ms (total: 3.32 sec)
+[2024.04.29-02.20.24:729][914]AssetCheck: New page: Asset Save: MainMap
+[2024.04.29-02.20.24:729][914]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MainMap.MainMap
